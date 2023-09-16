@@ -1,0 +1,96 @@
+---
+id: swsh4-86
+name: Phanpy
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Fighting
+evolvesTo:
+- Donphan
+attacks:
+- name: Stampede
+  cost:
+  - Fighting
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Strike Back
+  cost:
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 30×
+  text: This attack does 30 damage for each damage counter on this Pokémon.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh4
+  name: Vivid Voltage
+  series: Sword & Shield
+  printedTotal: 185
+  total: 203
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: VIV
+  releaseDate: 2020/11/13
+  updatedAt: 2020/11/13 16:20:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh4/symbol.png
+    logo: https://images.pokemontcg.io/swsh4/logo.png
+number: '86'
+artist: Shibuzoh.
+rarity: Common
+flavorText: It is strong despite its compact size. It can easily pick up and carry
+  an adult human on its back.
+nationalPokedexNumbers:
+- 231
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh4/86.png
+  large: https://images.pokemontcg.io/swsh4/86_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh4-86
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.05
+      mid: 0.2
+      high: 2.77
+      market: 0.17
+      directLow: 0.08
+    normal:
+      low: 0.01
+      mid: 0.1
+      high: 40.0
+      market: 0.03
+      directLow: 0.03
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh4-86
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.04
+    lowPrice: 0.02
+    trendPrice: 0.05
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.17
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.18
+    lowPriceExPlus: 0.02
+    avg1: 0.02
+    avg7: 0.1
+    avg30: 0.04
+    reverseHoloAvg1: 0.1
+    reverseHoloAvg7: 0.19
+    reverseHoloAvg30: 0.17

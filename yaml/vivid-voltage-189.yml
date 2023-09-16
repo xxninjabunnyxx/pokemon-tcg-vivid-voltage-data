@@ -1,0 +1,94 @@
+---
+id: swsh4-189
+name: Coalossal VMAX
+supertype: Pokémon
+subtypes:
+- VMAX
+hp: '330'
+types:
+- Fighting
+evolvesFrom: Coalossal V
+rules:
+- 'VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.'
+attacks:
+- name: Eruption Shot
+  cost:
+  - Fighting
+  convertedEnergyCost: 1
+  damage: 40+
+  text: Discard the top card of your deck. If that card is an Energy card, this attack
+    does 90 more damage, and attach that card to this Pokémon.
+- name: G-Max Boulder
+  cost:
+  - Fighting
+  - Fighting
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '240'
+  text: ''
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: swsh4
+  name: Vivid Voltage
+  series: Sword & Shield
+  printedTotal: 185
+  total: 203
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: VIV
+  releaseDate: 2020/11/13
+  updatedAt: 2020/11/13 16:20:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh4/symbol.png
+    logo: https://images.pokemontcg.io/swsh4/logo.png
+number: '189'
+artist: 5ban Graphics
+rarity: Rare Rainbow
+nationalPokedexNumbers:
+- 839
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh4/189.png
+  large: https://images.pokemontcg.io/swsh4/189_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh4-189
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 5.0
+      mid: 7.64
+      high: 22.79
+      market: 6.3
+      directLow: 7.75
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh4-189
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 11.09
+    lowPrice: 6.99
+    trendPrice: 10.68
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 30.11
+    lowPriceExPlus: 9.0
+    avg1: 9.0
+    avg7: 10.95
+    avg30: 10.59
+    reverseHoloAvg1: 24.5
+    reverseHoloAvg7: 30.39
+    reverseHoloAvg30: 24.87

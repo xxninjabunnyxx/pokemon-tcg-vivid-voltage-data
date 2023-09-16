@@ -1,0 +1,92 @@
+---
+id: swsh4-170
+name: Pikachu V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+hp: '190'
+types:
+- Lightning
+evolvesTo:
+- Raichu
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+attacks:
+- name: Charge
+  cost:
+  - Lightning
+  convertedEnergyCost: 1
+  damage: ''
+  text: Search your deck for up to 2 Lightning Energy cards and attach them to this
+    Pokémon. Then, shuffle your deck.
+- name: Thunderbolt
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '200'
+  text: Discard all Energy from this Pokémon.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swsh4
+  name: Vivid Voltage
+  series: Sword & Shield
+  printedTotal: 185
+  total: 203
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: VIV
+  releaseDate: 2020/11/13
+  updatedAt: 2020/11/13 16:20:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh4/symbol.png
+    logo: https://images.pokemontcg.io/swsh4/logo.png
+number: '170'
+artist: Saki Hayashiro
+rarity: Rare Ultra
+nationalPokedexNumbers:
+- 25
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh4/170.png
+  large: https://images.pokemontcg.io/swsh4/170_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh4-170
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 11.5
+      mid: 15.25
+      high: 57.97
+      market: 14.32
+      directLow: 14.1
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh4-170
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 26.07
+    lowPrice: 17.0
+    trendPrice: 25.74
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 73.85
+    lowPriceExPlus: 17.0
+    avg1: 16.0
+    avg7: 26.44
+    avg30: 24.03
+    reverseHoloAvg1: 70.0
+    reverseHoloAvg7: 80.29
+    reverseHoloAvg30: 76.41

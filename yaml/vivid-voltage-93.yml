@@ -1,0 +1,98 @@
+---
+id: swsh4-93
+name: Zygarde
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '150'
+types:
+- Fighting
+attacks:
+- name: Beam
+  cost:
+  - Fighting
+  convertedEnergyCost: 1
+  damage: '30'
+  text: ''
+- name: Core Avenger
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 80+
+  text: If you have more Prize cards remaining than your opponent, this attack does
+    80 more damage.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: swsh4
+  name: Vivid Voltage
+  series: Sword & Shield
+  printedTotal: 185
+  total: 203
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: VIV
+  releaseDate: 2020/11/13
+  updatedAt: 2020/11/13 16:20:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh4/symbol.png
+    logo: https://images.pokemontcg.io/swsh4/logo.png
+number: '93'
+artist: Ryuta Fuse
+rarity: Rare Holo
+flavorText: Born when all of Zygarde's cells have been gathered together, it uses
+  force to neutralize those who harm the ecosystem.
+nationalPokedexNumbers:
+- 718
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh4/93.png
+  large: https://images.pokemontcg.io/swsh4/93_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh4-93
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.1
+      mid: 0.32
+      high: 999.99
+      market: 0.31
+      directLow: 0.24
+    holofoil:
+      low: 0.1
+      mid: 0.25
+      high: 999.99
+      market: 0.22
+      directLow: 0.2
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh4-93
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.32
+    lowPrice: 0.05
+    trendPrice: 0.38
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.32
+    reverseHoloLow: 0.2
+    reverseHoloTrend: 0.48
+    lowPriceExPlus: 0.05
+    avg1: 0.11
+    avg7: 0.32
+    avg30: 0.35
+    reverseHoloAvg1: 0.4
+    reverseHoloAvg7: 0.35
+    reverseHoloAvg30: 0.59

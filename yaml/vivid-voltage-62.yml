@@ -1,0 +1,94 @@
+---
+id: swsh4-62
+name: Pincurchin
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '80'
+types:
+- Lightning
+attacks:
+- name: Spinning Fan
+  cost:
+  - Lightning
+  convertedEnergyCost: 1
+  damage: ''
+  text: This attack does 10 damage to each of your opponent's Pokémon. (Don't apply
+    Weakness and Resistance for Benched Pokémon.)
+- name: Peck
+  cost:
+  - Lightning
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swsh4
+  name: Vivid Voltage
+  series: Sword & Shield
+  printedTotal: 185
+  total: 203
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: VIV
+  releaseDate: 2020/11/13
+  updatedAt: 2020/11/13 16:20:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh4/symbol.png
+    logo: https://images.pokemontcg.io/swsh4/logo.png
+number: '62'
+artist: Kouki Saitou
+rarity: Uncommon
+flavorText: It feeds on seaweed, using its teeth to scrape it off rocks. Electric
+  current flows from the tips of its spines.
+nationalPokedexNumbers:
+- 871
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh4/62.png
+  large: https://images.pokemontcg.io/swsh4/62_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh4-62
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.04
+      mid: 0.18
+      high: 2.77
+      market: 0.11
+      directLow: 0.1
+    normal:
+      low: 0.01
+      mid: 0.1
+      high: 1.02
+      market: 0.03
+      directLow: 0.02
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh4-62
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.02
+    lowPrice: 0.02
+    trendPrice: 0.02
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.14
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.18
+    lowPriceExPlus: 0.02
+    avg1: 0.03
+    avg7: 0.03
+    avg30: 0.03
+    reverseHoloAvg1: 0.2
+    reverseHoloAvg7: 0.17
+    reverseHoloAvg30: 0.16
